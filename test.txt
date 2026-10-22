@@ -1,2 +1,3 @@
 Hello Git!
-Thsi is my first Git practice project.
+This is my first Git practice project.
+I am learning Git and Github
